@@ -30,7 +30,7 @@ Follow these steps to set up and run the application either locally or inside a 
 Clone the repository to your local machine by running:
 
 ```bash
-git clone https://github.com/LIVIDIAL/CONTAINER-EXPERI
+git clone https://github.com/LIVIDIAL/CONTAINER-EXPERI.git
 
 cd CONTAINER-EXPERI
 ```
